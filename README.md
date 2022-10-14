@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felicio-fernandes-450028181/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fernandesfelicio99@gmail.com)
 
-Welcome to my Github page! I am Felicio Fernandes and I am currently working in one of International Telecommunications Company as Junior IT Infrastructure!  
+Welcome to my GitHub page! I am Felicio Fernandes and I am currently working in one of the International Telecommunications Companies as a Junior IT Infrastructure!  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
@@ -13,7 +13,7 @@ Welcome to my Github page! I am Felicio Fernandes and I am currently working in 
 #### 🌱 Things I am currently working on: 
 - IT Infrastructure in Telecommunications Company  
 - Build Django Protofolio as many as possible
-- Learn Various Linux Distro such as : Centos, Ubuntu, Red Hat, Kali Linux ( Actual Job Task )
+- Learn Various Linux Distros such as Centos, Ubuntu, Red Hat, and Kali Linux ( Actual Job Task )
 
 
 #### :muscle: Things I am challenging myself with:
